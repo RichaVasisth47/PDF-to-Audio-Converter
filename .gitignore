@@ -1,0 +1,17 @@
+# Virtual Environment
+venv/
+env/
+.env
+
+# Python Bytecode & Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated Audio Files (Optional: agar tum generated mp3s ko git par push nahi karna chahti)
+output_audio.mp3
+temp_part_*.mp3
+
+# IDE / Editor Settings (PyCharm & macOS)
+.idea/
+.DS_Store
